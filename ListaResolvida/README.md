@@ -1,6 +1,6 @@
 
 
-<h3 align = center> Lista de Questões Resolvidas </h3>
+<h3 align = center> Lista de Questões Resolvidas com algoritmo<h3 align = center>
 
 | Questão | Enunciado |
 | --- | --- |
