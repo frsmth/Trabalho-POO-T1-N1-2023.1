@@ -11,5 +11,7 @@
  
  # ⚘ Colaboradores:
  Antônio Abner e Letícia Vitória
+ 
+ ![Sam - Stardew Valley Wiki](https://user-images.githubusercontent.com/125154278/230727943-df2d3443-789a-49d6-b4a5-d6bdb463ce2e.gif)
 
 
