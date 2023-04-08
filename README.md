@@ -8,4 +8,7 @@
  ![_ Photo](https://user-images.githubusercontent.com/125154278/230727171-d4d610fb-123c-4573-abf5-0493a323c269.gif)
  # ⚘ Colaboradores:
  Antônio Abner e Letícia Vitória
+ <p align="center">
+  <img src="![lxdymaria](https://user-images.githubusercontent.com/125154278/230727567-b88147d7-cc5b-4a79-bd27-59451c60ea59.gif)" />
+</p>
 
