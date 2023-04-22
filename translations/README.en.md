@@ -1,4 +1,4 @@
-### POO-2023.1
+### OOP-2023.1
 Welcome to our repository! Here you will find the answered questions from the 1st list presented! Thank you for your attention!
 ### ⚘ Object-Oriented Programming (2023.1)
 Teacher: Roger Sarmento
