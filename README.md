@@ -1,5 +1,8 @@
 # ⚘ Trabalho-POO-2023.1
- Bem-vindos ao nosso repositório! Aqui você encontrará as questões respondidas das 3 listas apresentadas! Agradecemos pela atenção! Adiante, você poderá ler este README em outras línguas 🇺🇲🇪🇸🇫🇷🇩🇪!
+ Bem-vindos ao nosso repositório! Aqui você encontrará as questões respondidas das 3 listas apresentadas! 
+
+Agradecemos pela atenção! Adiante, você poderá ler este README em outras línguas 🇺🇲🇪🇸🇫🇷🇩🇪!
+
 ![image](https://user-images.githubusercontent.com/125154278/233705317-ed4b339d-7e0c-4251-bada-2b59929b9f6e.png)
  
 #  ⚘ Programação Orientada a Objetos (2023.1)
