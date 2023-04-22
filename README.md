@@ -21,5 +21,11 @@ Entrega: 25/04/23
  ✦ Letícia Vitória
  
  ![Sam - Stardew Valley Wiki](https://user-images.githubusercontent.com/125154278/230727943-df2d3443-789a-49d6-b4a5-d6bdb463ce2e.gif)
+ 
+ #### _✮ LEIA EM [OUTROS IDIOMAS](translations/Translations.md):_
+<kbd>[<img title="Inglês" alt="Inglês" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/us.svg" width="22">](translations/README.en.md)</kbd>
+<kbd>[<img title="Española" alt="Española" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](translations/README.es.md)</kbd>
+<kbd>[<img title="Française" alt="Française" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](translations/README.fr.md)</kbd>
+<kbd>[<img title="Alemão" alt="Alemão" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](translations/README.de.md)</kbd>
 
 
