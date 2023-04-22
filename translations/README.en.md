@@ -21,3 +21,10 @@ Due date: 25/04/23
 ✦ Leticia Gomes
 
 ![Sam - Stardew Valley Wiki](https://user-images.githubusercontent.com/125154278/230727943-df2d3443-789a-49d6-b4a5-d6bdb463ce2e.gif)
+
+ 
+ #### _✮ READ THIS IN [OTHERS LANGUAGES](translations/Translations.md):_
+<kbd>[<img title="Alemão" alt="Alemão" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](README.de.md)</kbd>
+<kbd>[<img title="Española" alt="Española" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](README.es.md)</kbd>
+<kbd>[<img title="Française" alt="Française" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](README.fr.md)</kbd>
+<kbd>[<img title="Português" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](README.br.md)</kbd>
