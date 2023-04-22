@@ -6,7 +6,8 @@ Enseignant: Roger Sarmento
 
 Date d’échéance: 25/04/23
 ![_ Photo (1)](https://user-images.githubusercontent.com/125154278/230726431-9c33f4ee-46ef-489a-8483-9df759bbe4ef.gif)
-⚘ Vous trouverez ici :
+### ⚘ Vous trouverez ici :
+
 ✮ Liste des exercices résolus à l’aide d’algorithmes
 
 ✮ Listes d’exercices proposés et sans algorithmes
