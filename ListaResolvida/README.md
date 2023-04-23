@@ -1,6 +1,6 @@
 
 
-<h3 align = center> Lista de Questões Resolvidas com Algoritmo <h3 align = center>
+<h3 align = center> Aqui se encontra a Lista de Questões Resolvidas com Algoritmo <h3 align = center>
 
 | Questão | Enunciado |
 | --- | --- |
