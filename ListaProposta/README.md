@@ -4,13 +4,13 @@
 
 | Questão | Enunciado |
 | --- | --- |
-| 03 | Faça um programa que receba trés notas e seus respectivos pesos, calcule e mostre a média ponderada dessas notas. |
-| 07 | Faça um programa que receba o salário-base de um funcionário, calcule e mostre o seu salário a receber, sabendo-se que esse funcionário tem gratificação de R$ 50.00 e paga imposto de 10% sobre o salário-base. |
-| 08 | Faça um programa que receba o valor de um depósito e o valor da taxa de juros, calcule e mostre o valor do rendimento e o valor total depois do rendimento. |
-| 09 | Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base * altura)/2 |
-| 10 | Faça um programa que calcule e mostre a área de um círculo.|
-| 14 | Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre: a) a idade dessa pessoa; b) quantos anos essa pessoa terá em 2005. |
-| 15 | O custo ao consumidor de um carro novo é a soma do preço de fabrica com o percentual de lucro do distribuidor e dos impostos aplicados ao preço de fábrica. Faça um programa que receba o preço de fábrica de um veículo, o percentual de lucro do distribuidor e o percentual de impostos. Calcule e mostre: a) o valor correspondente ao lucro do distribuidor; b) o valor correspondente aos impostos; c) o preço final do veiculo. |
-| 18 | 18. Pedro comprou um saco de ração com peso em quilos. Pedro possui dois gatos para os quais fornece a quantidade de ração em gramas. Faça um programa que receba o peso do saco de ração e a quantidade de ração fornecida para cada gato. Calcule e mostre quanto restará de raçãoa no saco após cinco dias. |
-| 19 | Cada degrau de uma escada tem X e altura. Faça um programa que receba essa altura e a altura que o usuário deseja alcançar subindo a escada. Calcule e mostre quantos degraus o usuário deverá subir para atingir seu objetivo, sem se preocupar com a altura do usuário. |
-| 22 | Sabe-se que o quilowatt de energia custa um quinto do salário minimo. Faça um programa que receba o valor do salário minimo e a quantidade de quilowatts consumida por uma residência, Calcule e mostre: a) O valor, em reais, de cada quilowatt; b) O valor, em reais, a ser pago por essa residência; c) O valor, em reais, a ser pago com desconto de 15%.
+| 02 | ![image](https://user-images.githubusercontent.com/128996657/233855906-28cde219-753a-4b49-9eb8-40cecc6ca5d1.png) |
+| 05 | ![image](https://user-images.githubusercontent.com/128996657/233855917-d6d4a2be-24b4-4b36-a7df-c5dcefc81aa0.png) |
+| 06 | ![image](https://user-images.githubusercontent.com/128996657/233855930-27943cb0-aee8-4e54-83d6-6bcd013eb3b8.png) |
+| 08 | ![image](https://user-images.githubusercontent.com/128996657/233855945-fddacdec-bac2-4a48-81d4-859df73d6160.png) |
+| 10 | ![image](https://user-images.githubusercontent.com/128996657/233855961-8fd94ba1-cf4a-4152-9753-e6a056b63001.png) |
+| 16 | ![image](https://user-images.githubusercontent.com/128996657/233856034-af664bab-b436-4ac5-9001-2b738757d427.png) |
+| 18 | ![image](https://user-images.githubusercontent.com/128996657/233856048-51354879-a554-4869-b1bf-871ab6679637.png) |
+| 20 | ![image](https://user-images.githubusercontent.com/128996657/233856132-efbf74f5-e338-4758-8012-4c07eac1992f.png) |
+| 23 | ![image](https://user-images.githubusercontent.com/128996657/233856149-7a3e5979-3afb-45b5-8adc-a06b4034cb02.png) |
+| 24 | ![image](https://user-images.githubusercontent.com/128996657/233856163-8c52fa40-48fe-499b-8706-724cef4fd2e7.png) |
