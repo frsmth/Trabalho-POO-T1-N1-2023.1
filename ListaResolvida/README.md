@@ -2,6 +2,8 @@
 
 <h3 align = center> Aqui se encontra a Lista de Questões Resolvidas com Algoritmo <h3 align = center>
 
+  ![a86a8988cec63eb2887c11115f6ec581](https://user-images.githubusercontent.com/125154278/233858330-5ca394d5-7d76-4570-9e6f-207375906730.gif)
+  
 | Questão | Enunciado |
 | --- | --- |
 | 03 | ![image](https://user-images.githubusercontent.com/128996657/233857551-b6cba113-681c-4e54-83ac-4f8ee6d770ef.png) |
