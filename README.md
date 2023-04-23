@@ -24,9 +24,9 @@ Entrega: 25/04/23
  ![_ Photo](https://user-images.githubusercontent.com/125154278/230727171-d4d610fb-123c-4573-abf5-0493a323c269.gif)
  
  # ⚘ Colaboradores:
- ✦ Antônio Abner 
+ ✦ Antônio Abner [https://github.com/frsmth]
  
- ✦ Letícia Vitória
+ ✦ Letícia Vitória [https://github.com/mareshbard]
  
  ![Sam - Stardew Valley Wiki](https://user-images.githubusercontent.com/125154278/230727943-df2d3443-789a-49d6-b4a5-d6bdb463ce2e.gif)
  
